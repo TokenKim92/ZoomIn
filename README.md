@@ -1,4 +1,4 @@
-# ZoomIn
+# zoomIn-qt
 
 A Project using C++ to zoom window and select pixel color.
 
